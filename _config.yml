@@ -1,1 +1,6 @@
 url: "https://github.com/riskialfattah/riskialfattah.github.io"
+
+plugins: 
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
