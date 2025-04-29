@@ -1,3 +1,3 @@
 function myFuncution() { 
-    alert("Kan sudah bilangan jangan di klik")
+    alert("Kepo banget sih!!!, Ubah dibilangin jangan dikilk")
 }
