@@ -18,4 +18,4 @@ Ciri khas Jekyll:
 -Menggunakan Markdown, Liquid templating, dan struktur direktori sederhana.
 -Sangat cocok digunakan dengan GitHub Pages, karena GitHub secara langsung mendukung Jekyll untuk hosting situs statis gratis. 
 
-![html link dan lists](/assets/images/h.jpg)
+![html link dan lists](/assets/images/h.png)
