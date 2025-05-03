@@ -3,7 +3,7 @@ layout: default
 title: friends
 ---
 
-# friends page
+# Friends page
 Berikut Teman-teman saya di kelas:
 1. [Abadan Syakira](https://abadan1912.github.io/)
 2. [Desi Nabila Sari](https://desynabilasari.github.io)
